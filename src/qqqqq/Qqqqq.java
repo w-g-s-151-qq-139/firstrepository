@@ -2,5 +2,5 @@ package qqqqq;
 
 public class Qqqqq {
 
-	int i=0;
+	int i=1;
 }
