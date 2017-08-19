@@ -4,4 +4,5 @@ public class Qqqqq {
 
 	int i=1;
 	int a=5;
+	String str="";
 }
